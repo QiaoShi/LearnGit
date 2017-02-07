@@ -11,5 +11,23 @@
 @interface DownloadDataViewController : UIViewController
 
 
+
+
 @end
 
+
+@implementation DownloadDataViewController
+
+- (instancetype)init
+{
+    self = [super init];
+    if (self) {
+        
+        char *a = "abacadfadfadfasf";
+        
+        char *c = "git is free software distributed under the GPL";
+    }
+    return self;
+}
+
+@end
