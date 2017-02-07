@@ -28,6 +28,8 @@
         char *c = "git is free software distributed under the GPL";
         
         char *b = "Git has a mutable index called stage";
+        
+        char *d = "git add a license file";
     }
     return self;
 }
