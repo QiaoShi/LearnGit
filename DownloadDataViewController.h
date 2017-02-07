@@ -38,4 +38,10 @@ void qsabc(int a)
     int c = a + b;
 }
 
+int qsadd (int a , int b) {
+    
+    int c = a + b;
+    return c;
+}
+
 @end
